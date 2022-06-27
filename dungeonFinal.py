@@ -8,7 +8,7 @@ import random
 # B = Basic Encounter
 # BT = Basic Encounter or Treasure
 # MB = Medium Encounter
-# MT = Medium Teasure
+# MT = Medium Treasure
 # MBT = Medium Encounter or Treasure
 # LB = Large Encounter
 # LT = Large Treasure
